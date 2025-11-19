@@ -2,16 +2,9 @@
 
 ### MERN stack developer
 
-<table>
-  <tr>
-    <td width="60%">
-      <img src="https://github-profile-trophy.vercel.app/?username=shanuvr&theme=flat&no-frame=true&margin-w=5" />
-    </td>
-    <td width="40%">
-      <img src="https://i.pinimg.com/originals/1f/43/b8/1f43b8eed32b8695c4a35d79c068d02a.gif" width="250" />
-    </td>
-  </tr>
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanuvr&label=Profile views&color=0e75b6&style=flat" alt="shanuvr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanuvr" alt="shanuvr" /></a> </p>
 
 - 💬 Ask me about **MERN**
 
