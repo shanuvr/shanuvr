@@ -1,4 +1,5 @@
 # Hi 👋, I'm Shanu
+<img align="right" alt="coding gif" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" />
 
 ### MERN stack developer
 
