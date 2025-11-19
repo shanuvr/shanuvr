@@ -2,7 +2,7 @@
 
 ### MERN stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanuvr&label=Profile views&color=0e75b6&style=flat" alt="shanuvr" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanuvr" alt="shanuvr" /></a> </p>
 
