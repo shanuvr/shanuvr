@@ -1,4 +1,7 @@
-# Hi 👋, I'm Shanu
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;Always+learning+new+things" />
+</p>
+
 
 ### MERN stack developer
 
