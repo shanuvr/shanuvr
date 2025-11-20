@@ -1,6 +1,8 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=28&pause=1000&color=000000&width=600&lines=MERN+Stack+Developer" />
-</p>
+
+<h1 align="center" style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer">
+</h1>
+
 
 
 ### MERN stack developer
