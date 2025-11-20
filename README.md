@@ -22,9 +22,8 @@
 <!-- TROPHY -->
 <h3 align="left" style="color:#00A3FF;">Achievements</h3>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=shanuvr&theme=flat&no-frame=true&no-bg=true&margin-w=10&title=Followers,Stars,Commit,Repositories" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanuvr" alt="shanuvr" /></a> </p>
+
 
 <!-- SOCIAL -->
 <h3 align="left" style="color:#00A3FF;">Connect with Me</h3>
