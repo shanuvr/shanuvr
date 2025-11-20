@@ -4,30 +4,33 @@
 </h1>
 
 <!-- SUBTITLE -->
-<h3 align="left" style="color:#00A3FF; font-weight:600;">
+<h3 align="left" style="color:#00A3FF; font-weight:600; margin-top:-10px;">
   MERN Stack Developer
 </h3>
 
 <!-- BLUE DIVIDER -->
-<hr style="border: 1px solid #00A3FF20; width: 100%;" />
-
-<!-- TROPHY -->
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=shanuvr&theme=flat&margin-w=10&margin-h=10&title=Stars,Commit,Followers,Repositories&no-frame=true&column=4&no-bg=true&text_color=00A3FF" />
-</p>
+<hr style="border: 1px solid #00A3FF20; width: 100%;"/>
 
 <!-- ABOUT -->
 <h3 align="left" style="color:#00A3FF;">About Me</h3>
 
-- 💬 Ask me about **MERN Stack**  
-- 📫 Reach me at **connect@shanuvr.in**  
+- 💬 Ask me about **MERN Stack**
+- 📫 Email → **connect@shanuvr.in**
 - 🌐 Portfolio → **https://www.shanuvr.in**
+- 🚀 Passionate about building fast, scalable apps
+
+<!-- TROPHY -->
+<h3 align="left" style="color:#00A3FF;">Achievements</h3>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=shanuvr&theme=flat&no-frame=true&no-bg=true&margin-w=10&title=Followers,Stars,Commit,Repositories" />
+</p>
 
 <!-- SOCIAL -->
-<h3 align="left" style="color:#00A3FF;">Connect with me</h3>
+<h3 align="left" style="color:#00A3FF;">Connect with Me</h3>
 <p align="left">
   <a href="https://github.com/shanuvr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
 </p>
 
@@ -39,17 +42,19 @@
 </p>
 
 <!-- BLUE DIVIDER -->
-<hr style="border: 1px solid #00A3FF20; width: 100%;" />
+<hr style="border: 1px solid #00A3FF20; width: 100%;"/>
 
-<!-- STATS -->
+<!-- STATS SECTION -->
+<h3 align="left" style="color:#00A3FF;">GitHub Stats</h3>
+
 <p>
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuvr&show_icons=true&layout=compact&title_color=00A3FF&text_color=ffffff&bg_color=00000000" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuvr&show_icons=true&layout=compact&theme=transparent" />
 
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=shanuvr&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=ffffff&bg_color=00000000" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=shanuvr&show_icons=true&theme=transparent" />
 </p>
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanuvr&stroke=00A3FF&ring=00A3FF&fire=00A3FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00A3FF&sideLabels=ffffff&dates=bbbbbb&background=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanuvr&theme=transparent" />
 </p>
