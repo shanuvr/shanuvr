@@ -1,33 +1,55 @@
+<!-- HEADER -->
 <h1 align="left" style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&pause=1000&color=00A3FF&center=false&vCenter=false&width=600&lines=Hi+I'm+Shanu;MERN+Stack+Developer;Full-Stack+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&pause=1000&color=00A3FF&center=false&vCenter=false&width=600&lines=Hi+I'm+Shanu;MERN+Stack+Developer;Full-Stack+Developer" />
 </h1>
 
+<!-- SUBTITLE -->
+<h3 align="left" style="color:#00A3FF; font-weight:600;">
+  MERN Stack Developer
+</h3>
 
+<!-- BLUE DIVIDER -->
+<hr style="border: 1px solid #00A3FF20; width: 100%;" />
 
-
-### MERN stack developer
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanuvr" alt="shanuvr" /></a> </p>
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **connect@shanuvr.in**
-
-- 👨‍💻 All of my projects are available at **[https://www.shanuvr.in](https://www.shanuvr.in)**
-
-<h3 align="left">Connect with me:</h3>
+<!-- TROPHY -->
 <p align="left">
-<a href="https://github.com/shanuvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shanuvr" height="30" width="40" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=shanuvr&theme=flat&margin-w=10&margin-h=10&title=Stars,Commit,Followers,Repositories&no-frame=true&column=4&no-bg=true&text_color=00A3FF" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<!-- ABOUT -->
+<h3 align="left" style="color:#00A3FF;">About Me</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuvr&show_icons=true&locale=en&layout=compact" alt="shanuvr" /></p>
+- 💬 Ask me about **MERN Stack**  
+- 📫 Reach me at **connect@shanuvr.in**  
+- 🌐 Portfolio → **https://www.shanuvr.in**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanuvr&show_icons=true&locale=en" alt="shanuvr" /></p>
+<!-- SOCIAL -->
+<h3 align="left" style="color:#00A3FF;">Connect with me</h3>
+<p align="left">
+  <a href="https://github.com/shanuvr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" width="40" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanuvr&" alt="shanuvr" /></p>
+<!-- SKILLS -->
+<h3 align="left" style="color:#00A3FF;">Languages & Tools</h3>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,css,express,figma,git,html,js,linux,mongodb,nextjs,nginx,nodejs,postman,react,sass,tailwind,ts" />
+</p>
+
+<!-- BLUE DIVIDER -->
+<hr style="border: 1px solid #00A3FF20; width: 100%;" />
+
+<!-- STATS -->
+<p>
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuvr&show_icons=true&layout=compact&title_color=00A3FF&text_color=ffffff&bg_color=00000000" />
+
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=shanuvr&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=ffffff&bg_color=00000000" />
+</p>
+
+<br/><br/><br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanuvr&stroke=00A3FF&ring=00A3FF&fire=00A3FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00A3FF&sideLabels=ffffff&dates=bbbbbb&background=00000000" />
+</p>
