@@ -1,4 +1,4 @@
-<!-- HEADERss -->
+<!-- HEADERsss -->
 <h1 align="left" style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&pause=1000&color=00A3FF&center=false&vCenter=false&width=600&lines=Hi+I'm+Shanu;MERN+Stack+Developer;Full-Stack+Developer" />
 </h1>
