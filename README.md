@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 - 💬 Ask me about **MERN Stack**
 - 📧 Email: **connect@shanuvr.in**
 - 🌐 Portfolio: **https://www.shanuvr.in**
@@ -13,14 +13,14 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=shanuvr&theme=algolia&margin-w=10&row=1" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 <p>
   <a href="https://github.com/shanuvr" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="42" />
@@ -29,14 +29,14 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,html,css,tailwind,sass,git,linux,nginx,aws,postman,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shanuvr&show_icons=true&theme=transparent" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuvr&layout=compact&theme=transparent" />
