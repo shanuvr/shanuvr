@@ -4,15 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=00A3FF&width=550&lines=MERN+Stack+Developer;Full+Stack+Engineer;I+build+fast+and+scalable+apps" />
 
----
-
-##  About Me
-- 💬 Ask me about **MERN Stack**
-- 📧 Email: **connect@shanuvr.in**
-- 🌐 Portfolio: **https://www.shanuvr.in**
-- ⚡ Passionate about building **fast, scalable, production-ready applications**
-
----
 
 ##  Achievements
 <p align="left">
@@ -39,6 +30,16 @@
 
 ##  GitHub Stats
 <p align="center">
+  
+---
+
+##  About Me
+- 💬 Ask me about **MERN Stack**
+- 📧 Email: **connect@shanuvr.in**
+- 🌐 Portfolio: **https://www.shanuvr.in**
+- ⚡ Passionate about building **fast, scalable, production-ready applications**
+
+---
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shanuvr&show_icons=true&theme=transparent" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuvr&layout=compact&theme=transparent" />
 </p>
