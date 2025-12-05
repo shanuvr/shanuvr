@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm **Shanu....**
+# 👋 Hi, I'm **Shanu.....**
 ### MERN Stack Developer • Full-Stack Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=00A3FF&width=550&lines=MERN+Stack+Developer;Full+Stack+Engineer;I+build+fast+and+scalable+apps" />
