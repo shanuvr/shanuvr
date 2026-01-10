@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=00A3FF&width=500&lines=MERN+Stack+Developer;Full+Stack+Engineer;I+build+fast+and+scalable+apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=6AAFFF&width=420&lines=MERN+Stack+Developer;Full+Stack+Engineer;Building+scalable+apps" />
+
 
 ### About
 
@@ -7,7 +8,7 @@ I enjoy working on clean architecture, backend systems, and creating smooth user
 
 Most of my projects revolve around real-world products, API design, and modern JavaScript tooling.
 
----
+
 
 ### Contact
 
@@ -15,7 +16,7 @@ Most of my projects revolve around real-world products, API design, and modern J
 - LinkedIn: https://www.linkedin.com/in/shanuvramesan/
 - Instagram: https://www.instagram.com/shanu_v_r/
 
----
+
 
 ### Tech Stack
 
@@ -28,16 +29,10 @@ Frontend
 Tools & DevOps  
 `AWS` `Git` `Linux` `Ubuntu` `Postman` `Figma` `VS Code`
 
----
 
-### Selected Projects
+#### Some of my works
+[**Wedding Paradise**](https://theweddingparadise.in/)  
+[**Portfolio**](https://shanuvr.in/)
 
-**Wedding Paradise**  
-https://theweddingparadise.in/
-
-**Portfolio**  
-https://shanuvr.in/
-
----
 
 _Always learning. Always building._
