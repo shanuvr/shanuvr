@@ -17,17 +17,9 @@ Most of my projects revolve around real-world products, API design, and modern J
 - Instagram: https://www.instagram.com/shanu_v_r/
 
 
-
 ### Tech Stack
 
-Backend  
-`Node.js` `Express` `MongoDB` `RabbitMQ` `Nginx`
-
-Frontend  
-`React` `TypeScript` `JavaScript` `HTML` `CSS` `Sass`
-
-Tools & DevOps  
-`AWS` `Git` `Linux` `Ubuntu` `Postman` `Figma` `VS Code`
+`Node.js` `Express` `MongoDB` `RabbitMQ` `Nginx` `React` `TypeScript` `JavaScript` `HTML` `CSS` `Sass` `AWS` `Git` `Linux` `Ubuntu` `Postman` `Figma` `VS Code`
 
 
 #### Some of my works
