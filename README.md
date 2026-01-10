@@ -1,32 +1,43 @@
-                                                                                                                    
-                                         
-### MERN Stack Developer • Full-Stack Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=00A3FF&width=500&lines=MERN+Stack+Developer;Full+Stack+Engineer;I+build+fast+and+scalable+apps" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=00A3FF&width=550&lines=MERN+Stack+Developer;Full+Stack+Engineer;I+build+fast+and+scalable+apps" />
+### About
 
+I’m a full-stack developer focused on building reliable, scalable, and performance-driven web applications using the MERN stack.  
+I enjoy working on clean architecture, backend systems, and creating smooth user experiences on the frontend.
+
+Most of my projects revolve around real-world products, API design, and modern JavaScript tooling.
+
+---
+
+### Contact
+
+- Email: **connect@shanuvr.in**
+- LinkedIn: https://www.linkedin.com/in/shanuvramesan/
+- Instagram: https://www.instagram.com/shanu_v_r/
 
 ---
 
-##  Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,html,css,tailwind,sass,git,linux,nginx,aws,postman,figma" />
-</p>
+### Tech Stack
 
+Backend  
+`Node.js` `Express` `MongoDB` `RabbitMQ` `Nginx`
 
+Frontend  
+`React` `TypeScript` `JavaScript` `HTML` `CSS` `Sass`
 
-##  About Me
-- 💬 Ask me about **MERN Stack**
-- 📧 Email: **connect@shanuvr.in**
-- 🌐 Portfolio: **https://www.shanuvr.in**
-- ⚡ Passionate about building **fast, scalable, production-ready applications**
+Tools & DevOps  
+`AWS` `Git` `Linux` `Ubuntu` `Postman` `Figma` `VS Code`
 
 ---
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shanuvr&show_icons=true&theme=transparent" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuvr&layout=compact&theme=transparent" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanuvr&theme=transparent" />
-</p>
+### Selected Projects
+
+**Wedding Paradise**  
+https://theweddingparadise.in/
+
+**Portfolio**  
+https://shanuvr.in/
 
 ---
+
+_Always learning. Always building._
