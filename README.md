@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=6AAFFF&width=420&lines=MERN+Stack+Developer;Full+Stack+Engineer;Building+scalable+apps" />
-
+ 
 
 ### About
 
